@@ -111,7 +111,4 @@ async def on_ready():
 
 
 
-client.run('MTA2OTM3MDI0ODY3MjgzNzcyNQ.GtmUgb.6jIbqHlr18a8KKHM-x8Mc-TttccQ9BXWBdN584')
-
-
-#client.run('MTA2OTM3MDI0ODY3MjgzNzcyNQ.GtmUgb.6jIbqHlr18a8KKHM-x8Mc-TttccQ9BXWBdN584')
+client.run('YOUR TOKEN HERE')
